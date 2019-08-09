@@ -1,7 +1,7 @@
 # CSC272-.NOT
 CSC272 Project for a CRUD app
 
-NOT Simple project 
+NOT Simple project - Visitor Log
 
 Logo: NOT
 
